@@ -4,7 +4,7 @@
 
 ## Arrancar
 ```
-node examples/Led/index.js
+node examples/REPL/index.js
 ```
 
 ## Comandos

@@ -17,3 +17,6 @@ npm install
 
 ## Ejemplos
 - [Led](https://github.com/jerosoler/MasterClass-Javascript-IOT/tree/master/examples/Led)
+- [REPL](https://github.com/jerosoler/MasterClass-Javascript-IOT/tree/master/examples/REPL)
+- [NeoPixel](https://github.com/jerosoler/MasterClass-Javascript-IOT/tree/master/examples/Neopixel)
+- [Servo](https://github.com/jerosoler/MasterClass-Javascript-IOT/tree/master/examples/Servo)
