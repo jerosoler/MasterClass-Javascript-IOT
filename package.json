@@ -1,0 +1,25 @@
+{
+  "name": "masterclass",
+  "version": "1.0.0",
+  "description": "Masterclass Javascript Robotics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerosoler/MasterClass-Javascript-IOT.git"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "Jero Soler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerosoler/MasterClass-Javascript-IOT/issues"
+  },
+  "homepage": "https://github.com/jerosoler/MasterClass-Javascript-IOT#readme",
+  "dependencies": {
+    "johnny-five": "^1.4.0"
+  }
+}
