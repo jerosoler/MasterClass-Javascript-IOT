@@ -1,12 +1,9 @@
-var five = require("johnny-five");
-var board = new five.Board();
+const { Board, Led } = require("johnny-five");
+const board = new Board();
 
-board.on("ready", function() {
+board.on("ready", () => {
+  const led = new Led(13);
 
-  // Create a standard `led` component instance
-  var led = new five.Led(13);
-
-  // "blink" the led in 500ms
-  // on-off phase periods
+  // "blink" the led in 500ms on-off phase periods
   led.blink(500);
 });
