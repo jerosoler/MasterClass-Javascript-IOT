@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/jerosoler/MasterClass-Javascript-IOT#readme",
   "dependencies": {
+    "etherport-client": "^0.1.4",
     "johnny-five": "^1.4.0",
     "node-pixel": "^0.10.2"
   }
