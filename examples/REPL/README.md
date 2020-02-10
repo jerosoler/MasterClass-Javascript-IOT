@@ -6,3 +6,7 @@
 ```
 node examples/Led/index.js
 ```
+
+## Comandos
+`on()`
+`off()`
