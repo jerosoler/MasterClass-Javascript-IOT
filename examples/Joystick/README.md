@@ -1,6 +1,6 @@
 # Ejemplo Joystic
 
-![Image boards](https://github.com/jerosoler/MasterClass-Javascript-IOT/blob/master/docs/joystic.png)
+![Image boards](https://github.com/jerosoler/MasterClass-Javascript-IOT/blob/master/docs/joystick.png)
 
 ## Problemas al instalar robotjs
 * Windows
