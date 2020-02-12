@@ -21,3 +21,4 @@ npm install
 - [NeoPixel](https://github.com/jerosoler/MasterClass-Javascript-IOT/tree/master/examples/Neopixel)
 - [Servo](https://github.com/jerosoler/MasterClass-Javascript-IOT/tree/master/examples/Servo)
 - [ESP8266](https://github.com/jerosoler/MasterClass-Javascript-IOT/tree/master/examples/ESP8266)
+- [Joystick](https://github.com/jerosoler/MasterClass-Javascript-IOT/tree/master/examples/Joystick)

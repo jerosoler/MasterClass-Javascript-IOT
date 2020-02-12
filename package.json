@@ -21,7 +21,9 @@
   "homepage": "https://github.com/jerosoler/MasterClass-Javascript-IOT#readme",
   "dependencies": {
     "etherport-client": "^0.1.4",
+    "firmata": "^2.2.0",
     "johnny-five": "^1.4.0",
-    "node-pixel": "^0.10.2"
+    "node-gyp": "^6.1.0",
+    "robotjs": "^0.6.0"
   }
 }
