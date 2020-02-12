@@ -23,4 +23,4 @@ npm install
 - [ESP8266](https://github.com/jerosoler/MasterClass-Javascript-IOT/tree/master/examples/ESP8266)
 - [Joystick](https://github.com/jerosoler/MasterClass-Javascript-IOT/tree/master/examples/Joystick)
 - [express](https://github.com/jerosoler/MasterClass-Javascript-IOT/tree/master/examples/express)
-- [relay](https://github.com/jerosoler/MasterClass-Javascript-IOT/tree/master/examples/relay)
+- [Relay](https://github.com/jerosoler/MasterClass-Javascript-IOT/tree/master/examples/Relay)
